@@ -1,0 +1,11 @@
+store_id,store_type,store_size,region
+1,A,151315,North
+2,A,202307,South
+3,B,37392,East
+4,A,205863,West
+5,B,34875,North
+6,A,202505,South
+7,B,70713,East
+8,C,155078,West
+9,B,125833,North
+10,C,126512,South
